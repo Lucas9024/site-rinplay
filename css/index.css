@@ -1,0 +1,6 @@
+.logomarca {
+    width: 100px;
+    height: 100px;
+    display: block;
+    background: url("../img/rinplay-logo.png")no-repeat;
+}
