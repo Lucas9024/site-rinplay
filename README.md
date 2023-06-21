@@ -1,3 +1,3 @@
 # site-rinplay
 
-### Site da rede social rinplay, rede voltad para o público geek.
+### Site da rede social rinplay, rede voltada para o público geek.
