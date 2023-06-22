@@ -1,6 +1,18 @@
-.logomarca {
+
+.apresentation {
+    background: url("../img/background.png")no-repeat center 0;
+    padding-top: 30px;
+}
+
+.logoicon {
     width: 100px;
-    height: 100px;
+    height: 50px;
+    background: url("../img/rinplay-logo.png")no-repeat 0 0;
     display: block;
-    background: url("../img/rinplay-logo.png")no-repeat;
+}
+
+.logo {
+
+    float: left;
+    
 }
